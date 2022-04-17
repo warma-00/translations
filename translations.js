@@ -10188,6 +10188,7 @@ zh: {
 	starveTimer: "饥饿计时器",
 	stat: "属性",
 	stats: "状态",
+	Superior Kibble:"上等饲料",
 	tamed: "已驯服",
 	taming: "驯服中",
 	tamingCalculator: "驯服计算器",
@@ -10461,6 +10462,17 @@ zh: {
 	dcfd: "恐龙食物消耗速度",
 	multsDoubleShort:"Dododex已经更新到2倍驯服匹配ARK的新利率。ARK手游玩家都不会受到影响，但必须调整自己的Dododex乘数。访问设置的详细信息。",
 	multsDoubleLong:"现在ARK的驯服、经验和采集速度永久加倍。Dododex的计算已匹配更新。这对ARK的基本游戏性是个改变，这意味着现在的1倍驯服速度将是以前的2倍。如果你在官方的服务器上，你的倍率应设置为1。ARK手游不会受到影响，但由于Dododex的速率翻倍，手游玩家需要调整自己的Dododex倍率。请使用以下更新过的预设以确保您使用正确的倍率。"
+	Raw meat:"生肉",
+        raw mutton:"生羊肉", 
+	raw prime meat:"优质生肉",
+	raw fish meat:"生鱼肉",
+	seconds between hits:"攻击间隔",
+	active:"进行中",
+	complete:"已完成",
+	read more:"查看更多",
+	amargasaurus:"阿马加龙",
+	andrewsarchus:"安氏中兽",
+		
 }}
 
 /* Language names should be in native language */
